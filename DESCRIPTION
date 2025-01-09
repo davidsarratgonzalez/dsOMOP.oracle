@@ -10,7 +10,7 @@ Description: Extends the functionality of the `dsOMOP` package to support OMOP C
 License: MIT
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.3.1
+RoxygenNote: 7.3.2
 Remotes: 
     github::isglobal-brge/dsOMOP,
     github::isglobal-brge/oracle.resourcer
